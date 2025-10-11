@@ -19,6 +19,8 @@ A modern, web-based application designed to streamline and manage the daily oper
 Please note: This repository contains a partial upload of the project for demonstration purposes. It showcases the foundational structure and key features but does not include the full source code.
 To obtain the complete source code, please contact me directly via:
 * Email: tefekadie@gmail.com
+* Linkedin: www.linkedin.com/in/yenework-fekadie
+
 
 
 # 🖼️ Screenshots
@@ -42,4 +44,5 @@ Drug Expiry Checking
 # 🤝 Contributing
 Contributions are always welcome! If you have suggestions for new features, find a bug, or want to improve the code, please feel free to create an issue or submit a pull request.
 # 📜 License
+
 This project is licensed under the MIT License.
