@@ -25,10 +25,9 @@ To obtain the complete source code, please contact me directly via:
 Home page
 # ![.](screenshoots/homepage.gif)
 Login page
-# ![.](screenshoots/login_page.png)
+# ![.](screenshoots/login.gif)
 Admin Dashboard
 # ![.](screenshoots/admin_dashboard.gif)
-# ![.](screenshoots/Screenshot-120.png)
 Patient Management
 # ![.](screenshoots/patient_management.png)
 Drug Reporting
@@ -46,4 +45,5 @@ Contributions are always welcome! If you have suggestions for new features, find
 # 📜 License
 
 This project is licensed under the MIT License.
+
 
