@@ -21,28 +21,29 @@ To obtain the complete source code, please contact me directly via:
 * Email: tefekadie@gmail.com
 * Linkedin: www.linkedin.com/in/yenework-fekadie
 
-
-
 # 🖼️ Screenshots
 Home page
-# ![.](screenshoots/homepage_preview.gif)
+# ![.](screenshoots/homepage.gif)
 Login page
-# ![.](screenshoots/login.gif)
-# ![.](screenshoots/Screenshot-120.png)
+# ![.](screenshoots/login_page.png)
 Admin Dashboard
 # ![.](screenshoots/admin_dashboard.gif)
+# ![.](screenshoots/Screenshot-120.png)
 Patient Management
 # ![.](screenshoots/patient_management.png)
 Drug Reporting
-# ![.](screenshoots/pharmacy_reporting.png)
+# ![.](screenshoots/drug_reporting.png)
+Pharmacist Dashboard
+# ![.](screenshoots/pharmacist_dashboard.png)
 Drug Expiry Checking
 # ![.](screenshoots/expiry_alert.png)
-# ![.](screenshoots/Screenshot-1.png)
+Nurse Dashboard
+# ![.](screenshoots/nurse_dashboard.png)
 <!-- # ![.](screenshoots/Screenshot-127.png) -->
-# ![.](screenshoots/Screenshot-125.png)
 
 # 🤝 Contributing
 Contributions are always welcome! If you have suggestions for new features, find a bug, or want to improve the code, please feel free to create an issue or submit a pull request.
 # 📜 License
 
 This project is licensed under the MIT License.
+
